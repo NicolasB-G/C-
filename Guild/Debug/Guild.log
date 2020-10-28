@@ -1,0 +1,48 @@
+﻿  Aventurier.cpp
+  FactoryAventurier.cpp
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(4,19): error C2653: 'Guerrier' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(4,21): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(5,1): error C2550: 'Guerrier' : les listes d'initialiseurs de constructeur ne sont autorisées que dans la définition d'un constructeur
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(6,1): warning C4508: 'Guerrier' : la fonction doit retourner une valeur ; type de retour 'void' pris par défaut
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(7,20): error C2653: 'Guerrier' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(7,20): error C2523: '<Inconnu>::~Guerrier' : balise destructeur non correcte
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(8,1): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(7,20): error C2084: la fonction 'int Guerrier(void)' a déjà un corps
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(4): message : voir la définition précédente de 'Guerrier'
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(10,27): error C2653: 'Guerrier' : n'est pas un nom de classe ni d'espace de noms
+  Guerrier.cpp
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(4,19): error C2653: 'Guerrier' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(4,21): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(5,1): error C2550: 'Guerrier' : les listes d'initialiseurs de constructeur ne sont autorisées que dans la définition d'un constructeur
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(6,1): warning C4508: 'Guerrier' : la fonction doit retourner une valeur ; type de retour 'void' pris par défaut
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(7,20): error C2653: 'Guerrier' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(7,20): error C2523: '<Inconnu>::~Guerrier' : balise destructeur non correcte
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(8,1): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(7,20): error C2084: la fonction 'int Guerrier(void)' a déjà un corps
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(4): message : voir la définition précédente de 'Guerrier'
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(10,27): error C2653: 'Guerrier' : n'est pas un nom de classe ni d'espace de noms
+  Guild.cpp
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(4,19): error C2653: 'Guerrier' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(4,21): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(5,1): error C2550: 'Guerrier' : les listes d'initialiseurs de constructeur ne sont autorisées que dans la définition d'un constructeur
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(6,1): warning C4508: 'Guerrier' : la fonction doit retourner une valeur ; type de retour 'void' pris par défaut
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(7,20): error C2653: 'Guerrier' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(7,20): error C2523: '<Inconnu>::~Guerrier' : balise destructeur non correcte
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(8,1): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(7,20): error C2084: la fonction 'int Guerrier(void)' a déjà un corps
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(4): message : voir la définition précédente de 'Guerrier'
+C:\Users\nico\source\repos\Guild\Guild\Guerrier.cpp(10,27): error C2653: 'Guerrier' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\nico\source\repos\Guild\Guild\Guild.cpp(12,42): error C2061: erreur de syntaxe : identificateur 'Guerrier'
+  humain.cpp
+C:\Users\nico\source\repos\Guild\Guild\humain.h(11,19): error C3646: 'to_string' : spécificateur de substitution inconnu
+C:\Users\nico\source\repos\Guild\Guild\humain.h(11,19): error C2059: erreur de syntaxe : '('
+C:\Users\nico\source\repos\Guild\Guild\humain.h(11,21): error C2238: jetons inattendus avant ';'
+  mage.cpp
+  Race.cpp
+C:\Users\nico\source\repos\Guild\Guild\Aventurier.h(10,6): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\nico\source\repos\Guild\Guild\Aventurier.h(10,6): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\nico\source\repos\Guild\Guild\Aventurier.h(10,12): error C2238: jetons inattendus avant ';'
+C:\Users\nico\source\repos\Guild\Guild\Aventurier.h(24,12): error C2061: erreur de syntaxe : identificateur 'Race'
+C:\Users\nico\source\repos\Guild\Guild\Aventurier.h(24,12): error C2535: 'Aventurier::Aventurier(void)' : fonction membre déjà définie ou déclarée
+C:\Users\nico\source\repos\Guild\Guild\Aventurier.h(23): message : voir la déclaration de 'Aventurier::Aventurier'
+  Génération de code en cours...
